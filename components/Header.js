@@ -8,8 +8,7 @@ export default function Header({ name }) {
       <Link href="/">
         <a>
           <svg
-            width="393.25000000000006"
-            height="74.39864864864866"
+            className="w-64 sm:w-96"
             viewBox="0 0 370.00000000000006 70.00000000000001"
           >
             <defs id="SvgjsDefs1435"></defs>

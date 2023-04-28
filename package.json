@@ -1,16 +1,17 @@
 {
-  "name": "nextjs-blog-theme",
-  "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
-  "author": "Bejamas and Netlify Inc.",
+  "name": "LogicStack",
+  "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency and extended by LogicStack",
+  "author": "Richard Quigley",
   "contributors": [
     "Charlie Gerard",
     "Prince Wilson",
     "Tara Manicsic",
-    "Thom Krupa"
+    "Thom Krupa",
+    "Richard Quigley"
   ],
-  "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
+  "homepage": "https://www.logic-stack.com",
   "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
+    "url": "https://github.com/riquiofficial/LogicStack/issues"
   },
   "scripts": {
     "dev": "next",
